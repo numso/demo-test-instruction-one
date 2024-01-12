@@ -1,0 +1,7 @@
+{
+  "starships": [
+    { "id": "x", "name": "x-wing", "price": "2000000000", "measurement": "credits" },
+    { "id": "y", "name": "y-wing", "price": "2000000000", "measurement": "credits" },
+    { "id": "a", "name": "a-wing", "price": "2000000000", "measurement": "credits" }
+  ]
+}
